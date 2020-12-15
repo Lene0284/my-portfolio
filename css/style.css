@@ -1,0 +1,24 @@
+body{
+	background: pink;
+}
+h1{
+	text-align: center;
+	color: blue;
+}
+img{
+	float: right;
+}
+h2{
+	text-align: center;
+	color: red;
+}
+h3{
+	color: green;
+}
+p{
+	text-align: center;
+}
+footer{
+	text-align: center;
+	color: blue;
+}
